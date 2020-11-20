@@ -1,0 +1,34 @@
+.FeedBackContainer {
+  border: gray 1px solid;
+  border-radius: 5px;
+  margin: auto;
+  padding: 10px;
+  box-shadow: 8px 5px #bebaba;
+  width: 70%;
+}
+
+.Title {
+  padding: 10px;
+  font-size: 14px;
+  background-color: aqua;
+}
+
+.Title * {
+  display: inline;
+}
+
+.Title h4 {
+  margin-right: 47.5%;
+}
+
+.FeedBack {
+  height: 170px;
+  max-height: 170px;
+  font-size: 16px;
+}
+
+.Details {
+  margin-left: 58%;
+  font-size: 11px;
+  color: #646262;
+}

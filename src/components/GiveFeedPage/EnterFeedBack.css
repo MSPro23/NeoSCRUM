@@ -1,0 +1,52 @@
+.AvatarPic {
+  border-radius: 50%;
+  width: 100px;
+  height: 100px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.InputFeedBackContainer {
+  padding-top: 100px;
+  padding-bottom: 20px;
+
+  background-image: linear-gradient(rgb(119, 119, 224), white 50%);
+}
+
+.InputTitle {
+  text-align: center;
+  margin-bottom: 60px;
+}
+
+.Name {
+  font-weight: 500;
+}
+
+.InputField {
+  width: 95%;
+  margin-left: 2.5% !important;
+  margin-right: 2.5% !important;
+}
+
+.helper {
+  margin-left: 2.5%;
+}
+
+.count {
+  display: inline-block;
+  text-align: end;
+  width: 55.8%;
+  margin-right: 2.5%;
+}
+
+.helper,
+.count {
+  color: rgb(180, 180, 180);
+  font-size: 14px;
+}
+
+.SubmitFeedBackButton {
+  margin-left: 70% !important;
+  margin-top: 10px !important;
+}

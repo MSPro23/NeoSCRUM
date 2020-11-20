@@ -1,0 +1,42 @@
+.registerForm * {
+  display: block;
+}
+.registerForm .heading {
+  text-align: center;
+}
+.logo {
+  font-size: 58px;
+}
+.logo span {
+  text-transform: uppercase;
+  color: rgb(216, 70, 70);
+}
+.registerInput {
+  width: 100%;
+}
+
+.submitButton {
+  margin-top: 40px !important;
+}
+.formContainer {
+  padding: 40px;
+  width: 25%;
+}
+
+.forgotPassword {
+  color: blue;
+  margin-bottom: 10px;
+  position: relative;
+  bottom: 35px;
+  left: 70%;
+}
+
+.forgotPassword:hover {
+  cursor: pointer;
+}
+
+@media only screen and (max-width: 768px) {
+  .formContainer {
+    width: 70%;
+  }
+}

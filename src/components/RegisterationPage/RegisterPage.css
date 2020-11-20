@@ -1,0 +1,27 @@
+.registerForm * {
+  display: block;
+}
+.registerForm .heading {
+  text-align: center;
+}
+.logo {
+  font-size: 58px;
+}
+.logo span {
+  text-transform: uppercase;
+  color: rgb(216, 70, 70);
+}
+.registerInput {
+  width: 100%;
+}
+.uploadPic {
+  margin-top: 40px !important;
+  border: none transparent !important;
+  outline: none !important;
+}
+.submitButton {
+  margin-top: 20px !important;
+}
+.formContainer {
+  padding: 40px;
+}
